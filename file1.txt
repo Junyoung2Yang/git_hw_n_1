@@ -1,2 +1,6 @@
 This is the first commit
+<<<<<<< HEAD
 This is the third commit
+=======
+This is the second commit
+>>>>>>> branch1
